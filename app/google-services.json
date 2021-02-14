@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "21664339945",
+    "firebase_url": "https://kisileruygulamasi-9dd94-default-rtdb.firebaseio.com",
+    "project_id": "kisileruygulamasi-9dd94",
+    "storage_bucket": "kisileruygulamasi-9dd94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21664339945:android:a9324cca47b3fd5f715d78",
+        "android_client_info": {
+          "package_name": "com.example.contactsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21664339945-94q78ll3jqkuju32of03pc5v1rp41qvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyComDaG7P-LuLRUpD8B-19yknEikQDRC3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21664339945-94q78ll3jqkuju32of03pc5v1rp41qvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
